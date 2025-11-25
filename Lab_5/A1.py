@@ -5,4 +5,5 @@ while True:
     text = text.replace(text[Lposition:Rposition+1],"")
     if Rposition == -1:
         break
+lalala
 print(text)
